@@ -1,3 +1,2 @@
 PFKM Human PFKAM_HUMAN P08237
 Pfkm Mouse PFKAM_MOUSE P47857
-This is clearly another mistake!
